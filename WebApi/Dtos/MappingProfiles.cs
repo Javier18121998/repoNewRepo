@@ -7,7 +7,10 @@ namespace WebApi.Dtos
     {
         public MappingProfiles()
         {
-            CreateMap<Producto, ProductoDto>();
+            CreateMap<Producto, ProductoDto>().ForMember( p => p.CategoriaNombre,
+                                                          x => x.MapFrom(a => a.Categoria.Nombre))
+                                              .ForMember( p => p.MarcaNombre,
+                                                          x => x.MapFrom(a => a.Marca.Nombre));
         }
     }
 }
