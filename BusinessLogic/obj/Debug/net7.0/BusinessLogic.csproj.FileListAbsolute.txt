@@ -1,4 +1,5 @@
 C:\NetMarket\NetMarket\BusinessLogic\bin\Debug\net7.0\BusinessLogic.deps.json
+C:\NetMarket\NetMarket\BusinessLogic\bin\Debug\net7.0\BusinessLogic.runtimeconfig.json
 C:\NetMarket\NetMarket\BusinessLogic\bin\Debug\net7.0\BusinessLogic.dll
 C:\NetMarket\NetMarket\BusinessLogic\bin\Debug\net7.0\BusinessLogic.pdb
 C:\NetMarket\NetMarket\BusinessLogic\bin\Debug\net7.0\Core.dll
@@ -12,6 +13,5 @@ C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\BusinessLogic.csproj.CopyC
 C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\BusinessLogic.dll
 C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\refint\BusinessLogic.dll
 C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\BusinessLogic.pdb
-C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\ref\BusinessLogic.dll
-C:\NetMarket\NetMarket\BusinessLogic\bin\Debug\net7.0\BusinessLogic.runtimeconfig.json
 C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\BusinessLogic.genruntimeconfig.cache
+C:\NetMarket\NetMarket\BusinessLogic\obj\Debug\net7.0\ref\BusinessLogic.dll
