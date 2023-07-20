@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BusinessLogic.Identity.Migrations
 {
     [DbContext(typeof(SeguridadDbContext))]
-    [Migration("20230720002443_SeguridadInicio")]
+    [Migration("20230720184831_SeguridadInicio")]
     partial class SeguridadInicio
     {
         /// <inheritdoc />

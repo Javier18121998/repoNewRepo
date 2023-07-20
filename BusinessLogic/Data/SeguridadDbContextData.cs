@@ -27,7 +27,7 @@ namespace BusinessLogic.Data
                         Departamento = "JaliscoCasaOsvaldo"
                     }
                 };
-                await userManager.CreateAsync(usuario, "contraseñaDeOsvaldo");
+                await userManager.CreateAsync(usuario, "ContraseñaDeosvaldo@22");
             }
         }
     }

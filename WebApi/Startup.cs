@@ -35,7 +35,7 @@ public class Startup
         });
         services.AddDbContext<SeguridadDbContext>(x =>
         {
-            x.UseSqlServer(Configuration.GetConnectionString("IdentityDbSecurity"));
+            x.UseSqlServer(Configuration.GetConnectionString("IdentitySeguridad"));
         });
         services.AddTransient<IProductoRepository, ProductoRepository>();
         services.AddControllers();
