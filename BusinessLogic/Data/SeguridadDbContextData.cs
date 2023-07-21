@@ -19,6 +19,7 @@ namespace BusinessLogic.Data
                     Nombre = "Oswaldo",
                     Apellido = "Cervantes",
                     UserName = "cervantesOsv",
+                    Email = "oswaldocerv@outlook.com",
                     Direccion = new Direccion
                     {
                         Calle = "Andares 111",
