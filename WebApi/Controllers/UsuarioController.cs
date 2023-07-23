@@ -22,8 +22,10 @@ namespace WebApi.Controllers
         private readonly ITokenService _tokenService;
         private readonly IMapper _mapper;
 
-        public UsuarioController(UserManager<Usuario> userManager, SignInManager<Usuario> signInManager, 
-            ITokenService tokenService, IMapper mapper)
+        public UsuarioController( UserManager<Usuario> userManager, 
+                                  SignInManager<Usuario> signInManager, 
+                                  ITokenService tokenService, 
+                                  IMapper mapper)
         {
             _userManager = userManager;
             _signInManager = signInManager;
